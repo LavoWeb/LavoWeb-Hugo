@@ -1,0 +1,24 @@
+---
+title: "Utiliser Google Shopping pour vendre sur Internet"
+date: 2014-12-23
+draft: false
+aliases: [
+    "/google-shopping.html.1",
+    "/google-shopping.html"
+]
+tags: [
+   "marketing"
+]
+---
+Vendre sur Internet est aujourd’hui une des plus grandes transactions commerciales et qui rapporte assez vite en termes de chiffre d’affaires. Il est donc évident que vendre sur Internet est de plus en plus populaire. Aujourd’hui, on peut trouver différents types de plateforme pour vendre sur Internet. La plateforme mondiale Google par exemple, offre le programme Google Shopping pour aider les commerçants à vendre plus facilement sur Internet.
+
+
+## Le nouveau moteur de recherche pour les produits physiques
+
+Google Shopping est un meilleur moyen pour répondre aux demandes des utilisateurs par rapport à la recherche d’un produit sur Internet. Étant donné que la recherche du produit ne peut être gérer de la même façon qu’une requête plus large. En effet, l’accessibilité un produit dépend surtout de son prix et de sa disponibilité alors que pour une recherche classique peut donner des résultats sur un long terme. Voilà donc pourquoi la recherche d’un produit doit être changée en continue et c’est là que Google Shopping entre en selle. Le moteur de recherche Google à crée un autre moteur de recherche plus spécifique dédié aux produits physiques. Ce moteur de recherche peut être également apparenté à un comparateur de prix. Google Shopping ou Google Product Search est un service de comparateur de produits et de recherche plus spécifique de produits physiques. Il a été présenté aux Etats Unis pour la première fois puis en Allemagne eu Royaume Uni. Il voit le jour en France en Octobre 2010. De gros marchands sont présents sur ce moteur et la plupart des marchandises qu’on y trouve sont des produits physiques. Pour les utilisateurs de Google, cet outil aide les consommateurs à trouver sur Internet un article particulier au meilleur tarif. Très pratique ce site est spécialement dédié aux e-commerces et permet d’avoir des résultats de requêtes plus pertinents par rapport à d’autres sites. Il permet de référencer gratuitement les produits des commerçants e-commerce avec l’affichage d’une photo, d’une description et du prix.
+
+## Le meilleur comparateur de prix
+
+Google Shopping permet donc aux sites e-commerces de proposer leurs produits sur une page dédiée. L’utilisateur saisi une requête et Google Shopping lui propose différents correspondants comme le prix du produit, la disponibilité online et offline et tout ce que peut servir un comparateur.et pour ce faire, les sociétés e-commerce envoient fréquemment un flux bien spécifique à Google et ce via Google Merchant Center. La seule différence de Google Shopping par rapport à d’autres plateformes c’est qu’à la différence des comparateurs de prix classique, ce n’est pas nécessairement le marchand qui propose le prix moins cher qui s’affiche en première position des recherches. Il est également impossible de proposer un code promo ou des prix barrés sur Google Shopping. Utiliser Google Shopping pour lancer ses produits est un bon moyen pour accroitre la visibilité de son site e-commerce et donc la vente de ses produits. Inscrire son site e-commerce revient donc à assurer le référencement d’un produit pour mieux le vendre. Nouvel allié des sites e-commerce, il permet plus de praticité et de simplicité pour les e-consommateurs. Très intéressant également pour les professionnels, c’est une source complémentaire et surtout gratuite pour présenter les produits sur le web. Le plus grand avantage reste le fait qu’il est gratuit et c’est déjà une bonne chose pour les e-commerçants par rapport à d’autres sites comme Kelkoo, Le guide ou encore Buy central. Aucun frais fixe ni commission n’est requise pour tous les visiteurs arrivant depuis Google Shopping. Utiliser Google Shopping pour vendre ses produits permet également de faire augmenter son chiffre d’affaires et cela grâce à des taux de conversion plus élevés, des paniers moyens plus gros et des visiteurs qui reviennent plus souvent sur le site. En effet, tout se joue sur la qualification des visiteurs qui recherchent exactement le produit du catalogue en utilisant ce comparateur de prix. Par ailleurs, on notera également que sur Google Shopping, il existe une interface qui donne des statistiques par rapport aux recherches effectués par les utilisateurs. On notera aussi qu’il faut effectuer une mise à jour régulière pour assurer la visibilité d’un produit.
+
+Des trafics de ventes plus flexibles et une visibilité accrue, ce sont également les promesses de Google Shopping en plus de la gratuité du moteur de recherche. Même si le chemin parait plus long et fastidieux avec des règlements précis et des conditions rigoureuses, cela en vaut la peine car Google Shopping se trouve être un meilleur comparateur. Google Shopping en effet, utilise le fameux code barre qui est unique pour chaque produit.

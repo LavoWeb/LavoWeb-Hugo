@@ -9,6 +9,19 @@
 					{{ .Content }}
 				</div>
 			</div>
+			<div class="row">
+				<div class="col-md-12 about-info">
+					{{ $related := .Site.RegularPages.Related . | first 2 }}
+					{{ with $related }}
+					<h3>Voir</h3>
+					<ul>
+						{{ range . }}
+						<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+						{{ end }}
+					</ul>
+					{{ end }}
+				</div>
+			</div>
 		</div>
 	</div>
 {{ partial "footer.html" . }}

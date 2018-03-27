@@ -6,7 +6,11 @@ aliases: [
     "/creation/installation.2/",
     "/creation/dev.2/",
     "/creation.3/",
-    "/creation/performance.2/"
+    "/creation/performance.2/",
+    "/creation/installation/",
+    "/creation/dev/",
+    "/creation/",
+    "/creation/performance/"
 ]
 type: "pages"
 layout: "home"
