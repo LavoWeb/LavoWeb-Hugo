@@ -1,0 +1,75 @@
+baseURL = "http://lavoweb.net/"
+languageCode = "fr-fr"
+DefaultContentLanguage = "fr"
+title = "Agence Web Magento - LavoWeb"
+# theme = "material"
+theme = "lavoweb"
+metadataformat = "yaml"
+canonifyurls = true
+# Enable Google Analytics by entering your tracking id
+googleAnalytics = ""
+
+[params]
+	# General information
+	author = "Lavoweb"
+	description = "A material design theme for documentations."
+	copyright = " "
+
+	# Repository
+	#provider = "GitHub"
+	#repo_url = "https://github.com/digitalcraftsman/hugo-material-docs"
+
+	#version = "1.0.0"
+	logo = "images/developpement-magento.png"
+	favicon = "images/favicon_referencement_magento.png"
+
+	permalink = "#"
+
+	# Custom assets
+	custom_css = []
+	custom_js  = []
+
+	# Syntax highlighting theme
+	highlight_css  = ""
+
+	[params.palette]
+    	primary = "red"
+    	accent  = "teal"
+
+    [params.font]
+    	text = "Ubuntu"
+    	code = "Ubuntu Mono"
+
+
+[social]
+	twitter = "LavoWeb"
+	github  = "LavoWeb"
+	email   = "aurelien@lavoweb.net"
+
+
+[[menu.main]]
+	name   = "Agence Web"
+	url    = "/"
+	weight = 1
+
+[[menu.main]]
+	name   = "Développement Magento"
+	url    = "developpement/"
+	weight = 10
+
+[[menu.main]]
+	name   = "Hébergement Magento"
+	url    = "hebergement/"
+	weight = 20
+
+[[menu.main]]
+	name   = "Articles"
+	url    = "post/"
+	weight = 30
+
+
+[blackfriday]
+	smartypants	= true
+	fractions = true
+	smartDashes = true
+	plainIDAnchors = true

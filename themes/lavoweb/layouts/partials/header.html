@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head lang="fr-fr">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=10"/>
+    <title>{{ .Title }}</title>
+    <link rel="canonical" href="{{ .Permalink }}">
+    <meta property="og:url" content="{{ .Site.BaseURL }}">
+    <meta property="og:title" content="{{ .Title }}">
+    <meta property="og:image" content="{{ .Site.BaseURL }}images/referencement_magento_grand.png">
+    <meta name="apple-mobile-web-app-title" content="{{ .Title }}">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <link rel="shortcut icon" type="image/x-icon" href="{{ .Site.BaseURL }}images/favicon_referencement_magento.png">
+    <link rel="icon" type="image/x-icon" href="{{ .Site.BaseURL }}images/favicon_referencement_magento.png">
+
+    <style>
+        @font-face {
+            font-family: 'Icon';
+            src: url('{{ .Site.BaseURL }}fonts/icon.eot');
+            src: url('{{ .Site.BaseURL }}fonts/icon.eot') format('embedded-opentype'),
+            url('{{ .Site.BaseURL }}fonts/icon.woff') format('woff'),
+            url('{{ .Site.BaseURL }}fonts/icon.ttf') format('truetype'),
+            url('{{ .Site.BaseURL }}fonts/icon.svg') format('svg');
+            font-weight: normal;
+            font-style: normal;
+        }
+    </style>
+
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}stylesheets/application.css">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}stylesheets/temporary.css">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}stylesheets/palettes.css">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}stylesheets/highlight/highlight.css">
+
+
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Ubuntu:400,700|Ubuntu+Mono">
+    <style>
+        body, input {
+            font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
+        }
+
+        pre, code {
+            font-family: 'Ubuntu Mono', 'Courier New', 'Courier', monospace;
+        }
+    </style>
+
+
+    <script src="{{ .Site.BaseURL }}javascripts/modernizr.js"></script>
+
+    {{ if .RSSLink -}}<link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}">{{- end }}
+    {{ .Hugo.Generator }}
+
+</head>
+<body class="palette-primary-red palette-accent-teal">
+
+
+<div class="backdrop">
+    <div class="backdrop-paper"></div>
+</div>
+
+<input class="toggle" type="checkbox" id="toggle-drawer">
+<input class="toggle" type="checkbox" id="toggle-search">
+<label class="toggle-button overlay" for="toggle-drawer"></label>
+
+<header class="header">
+    <nav aria-label="Header">
+        <div class="bar default">
+            <div class="button button-menu" role="button" aria-label="Menu">
+                <label class="toggle-button icon icon-menu" for="toggle-drawer">
+                    <span></span>
+                </label>
+            </div>
+            <div class="stretch">
+                <div class="title">
+                    Agence Web Magento - LavoWeb
+                </div>
+            </div>
+
+
+            <div class="button button-twitter" role="button" aria-label="Twitter">
+                <a href="https://twitter.com/LavoWeb" title="@LavoWeb on Twitter" target="_blank"
+                   class="toggle-button icon icon-twitter"></a>
+            </div>
+
+
+            <div class="button button-github" role="button" aria-label="GitHub">
+                <a href="https://github.com/LavoWeb" title="@LavoWeb on GitHub" target="_blank"
+                   class="toggle-button icon icon-github"></a>
+            </div>
+
+
+        </div>
+        <div class="bar search">
+            <div class="button button-close" role="button" aria-label="Close">
+                <label class="toggle-button icon icon-back" for="toggle-search"></label>
+            </div>
+            <div class="stretch">
+                <div class="field">
+                    <input class="query" type="text" placeholder="Search" autocapitalize="off" autocorrect="off"
+                           autocomplete="off" spellcheck>
+                </div>
+            </div>
+            <div class="button button-reset" role="button" aria-label="Search">
+                <button class="toggle-button icon icon-close" id="reset-search"></button>
+            </div>
+        </div>
+    </nav>
+</header>
+
+<main class="main">
+    <div class="drawer">
+        <nav aria-label="Navigation">
+            <a href="{{ .Site.BaseURL }}" class="project">
+                <div class="banner">
+
+                    <div class="logo">
+                        <img src="{{ .Site.BaseURL }}images/developpement-magento.png">
+                    </div>
+
+                    <div class="name">
+                        <strong>Agence Web Magento - LavoWeb </strong>
+
+                    </div>
+                </div>
+            </a>
+
+            <div class="scrollable">
+                <div class="wrapper">
+
+
+                    <div class="toc">
+                        {{ partial "menu.html" . }}
+                        <hr>
+                        <span class="section">L'entreprise</span>
+
+                        <ul>
+
+                            <li>
+                                <a href="https:// twitter.com/LavoWeb" target="_blank" title="@LavoWeb on Twitter">
+                                    @LavoWeb sur Twitter
+                                </a>
+                            </li>
+
+
+                            <li>
+                                <a href="https://github.com/LavoWeb" target="_blank" title="@LavoWeb on GitHub">
+                                    @LavoWeb sur GitHub
+                                </a>
+                            </li>
+
+
+                            <li>
+                                <a href="mailto:aurelien@lavoweb.net" title="Email of aurelien@lavoweb.net">
+                                    Contacter via email
+                                </a>
+                            </li>
+
+                        </ul>
+
+                    </div>
+                </div>
+            </div>
+        </nav>
+
+    </div>
+
+    <article class="article">
+        <div class="wrapper">
