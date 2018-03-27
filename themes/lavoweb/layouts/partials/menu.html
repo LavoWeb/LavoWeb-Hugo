@@ -4,25 +4,45 @@
         <a {{ if eq $baseurl .Permalink }}class="current"{{ end }} title="Agence Web" href="{{ $baseurl }}">
             Agence Web
         </a>
-        <ul id="scrollspy">
-        </ul>
+        {{ if eq $baseurl .Permalink }}
+            <ul id="scrollspy"></ul>
+        {{ end }}
     </li>
     <li>
         {{ $linkurl := (print $baseurl "developpement/") }}
         <a {{ if eq $linkurl .Permalink }}class="current"{{ end }} title="Développement Magento" href="{{ $linkurl }}">
             Développement Magento
         </a>
+        {{ if eq $linkurl .Permalink }}
+            <ul id="scrollspy"></ul>
+        {{ end }}
     </li>
     <li>
         {{ $linkurl := (print $baseurl "hebergement/") }}
         <a {{ if eq $linkurl .Permalink }}class="current"{{ end }} title="Hébergement Magento" href="{{ $linkurl }}">
             Hébergement Magento
         </a>
+        {{ if eq $linkurl .Permalink }}
+            <ul id="scrollspy"></ul>
+        {{ end }}
+    </li>
+    <li>
+        {{ $linkurl := (print $baseurl "referencement/") }}
+        <a {{ if eq $linkurl .Permalink }}class="current"{{ end }} title="Hébergement Magento" href="{{ $linkurl }}">
+            Référencement e-commerce
+        </a>
+        {{ if eq $linkurl .Permalink }}
+            <ul id="scrollspy"></ul>
+        {{ end }}
     </li>
     <li>
         {{ $linkurl := (print $baseurl "post/") }}
-        <a {{ if eq $linkurl .Permalink }}class="current"{{ end }} title="Articles" href="{{ $linkurl }}">
+        {{ $ispost := (findRE ".*?post.*?" .Permalink) }}
+        <a {{ if $ispost }}class="current"{{ end }} title="Articles" href="{{ $linkurl }}">
             Articles
         </a>
+        {{ if $ispost }}
+            <ul id="scrollspy"></ul>
+        {{ end }}
     </li>
 </ul>

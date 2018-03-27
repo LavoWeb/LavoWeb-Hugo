@@ -10,7 +10,7 @@ weight: 0
 
 Découvrez la seule solution open-source présente sur les 100 e-commerces générant le plus de CA.
 
-## Le CMS Magento vous permets de gérer votre business en quelques clics
+## Le CMS Magento vous permet de gérer votre business en quelques clics
 
 Gérez simplement vos produits, vos moyens de transports et de paiements, vos clients, factures, stock & expéditions
 
