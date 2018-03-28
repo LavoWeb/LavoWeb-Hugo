@@ -6,7 +6,6 @@ aliases: [
     "/referencement.3/",
     "/referencement/e-reputation.2",
     "/referencement/reseaux.2",
-    "/referencement/",
     "/referencement/e-reputation",
     "/referencement/reseaux"
 ]

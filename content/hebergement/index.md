@@ -4,7 +4,7 @@ title: Hébergement haute performance e-commerce
 draft: false
 aliases: [
     "/hebergement.2/",
-    "/hebergement/"
+    "/hebergement.1/"
 ]
 ---
 ## Hébergement Magento
