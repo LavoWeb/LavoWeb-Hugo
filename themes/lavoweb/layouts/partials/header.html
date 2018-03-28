@@ -16,38 +16,9 @@
     <link rel="shortcut icon" type="image/x-icon" href="{{ .Site.BaseURL }}favicon_referencement_magento.png">
     <link rel="icon" type="image/x-icon" href="{{ .Site.BaseURL }}favicon_referencement_magento.png">
 
-    <style>
-        @font-face {
-            font-family: 'Icon';
-            src: url('{{ .Site.BaseURL }}fonts/icon.eot');
-            src: url('{{ .Site.BaseURL }}fonts/icon.eot') format('embedded-opentype'),
-            url('{{ .Site.BaseURL }}fonts/icon.woff') format('woff'),
-            url('{{ .Site.BaseURL }}fonts/icon.ttf') format('truetype'),
-            url('{{ .Site.BaseURL }}fonts/icon.svg') format('svg');
-            font-weight: normal;
-            font-style: normal;
-        }
-    </style>
-
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}stylesheets/application.css">
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}stylesheets/temporary.css">
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}stylesheets/palettes.css">
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}stylesheets/highlight/highlight.css">
-
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}stylesheets/style.min.css">
 
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Ubuntu:400,700|Ubuntu+Mono">
-    <style>
-        body, input {
-            font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
-        }
-
-        pre, code {
-            font-family: 'Ubuntu Mono', 'Courier New', 'Courier', monospace;
-        }
-    </style>
-
-
-    <script src="{{ .Site.BaseURL }}javascripts/modernizr.js"></script>
 
     {{ if .RSSLink -}}<link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}">{{- end }}
     {{ .Hugo.Generator }}
