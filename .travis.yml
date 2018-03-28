@@ -6,8 +6,9 @@ before_script:
   - sudo npm set strict-ssl false
   - sudo npm install -g gulp
 script:
-  - hugo
   - npm install
+  - gulp
+  - hugo
   - gulp
   - bash ./deploy.sh
 notifications:
