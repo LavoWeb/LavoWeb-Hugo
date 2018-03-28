@@ -45,7 +45,7 @@ gulp.task('scripts', function() {
 });
 
 gulp.task('html', function() {
-    return gulp.src('public/**')
+    return gulp.src('public/**.html')
         .pipe(minifyHtml())
         .pipe(gulp.dest('public'));
 });
