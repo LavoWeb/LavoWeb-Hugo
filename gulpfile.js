@@ -7,6 +7,7 @@ var minifyCSS = require('gulp-minify-css');
 var autoprefixer = require('gulp-autoprefixer');
 var rename = require('gulp-rename');
 var uglify = require('gulp-uglify');
+var minifyHtml = require('gulp-minify-html');
 
 var paths = {
     files: './static/**',
@@ -43,4 +44,10 @@ gulp.task('scripts', function() {
         .pipe(gulp.dest('themes/lavoweb/static/javascripts'));
 });
 
-gulp.task('default', ['files', 'css', 'scripts']);
+gulp.task('html', function() {
+    return gulp.src('public/**')
+        .pipe(minifyHtml())
+        .pipe(gulp.dest('public'));
+});
+
+gulp.task('default', ['files', 'css', 'scripts', 'html']);
