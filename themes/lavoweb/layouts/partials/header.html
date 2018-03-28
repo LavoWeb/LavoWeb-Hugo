@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html class="no-js">
+<html class="no-js" lang="fr-fr">
 <head lang="fr-fr">
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=10"/>
     <title>{{ .Title }}</title>
     <link rel="canonical" href="{{ .Permalink }}">
@@ -61,7 +61,6 @@
 </div>
 
 <input class="toggle" type="checkbox" id="toggle-drawer">
-<input class="toggle" type="checkbox" id="toggle-search">
 <label class="toggle-button overlay" for="toggle-drawer"></label>
 
 <header class="header">
@@ -92,20 +91,6 @@
 
 
         </div>
-        <div class="bar search">
-            <div class="button button-close" role="button" aria-label="Close">
-                <label class="toggle-button icon icon-back" for="toggle-search"></label>
-            </div>
-            <div class="stretch">
-                <div class="field">
-                    <input class="query" type="text" placeholder="Search" autocapitalize="off" autocorrect="off"
-                           autocomplete="off" spellcheck>
-                </div>
-            </div>
-            <div class="button button-reset" role="button" aria-label="Search">
-                <button class="toggle-button icon icon-close" id="reset-search"></button>
-            </div>
-        </div>
     </nav>
 </header>
 
@@ -116,7 +101,7 @@
                 <div class="banner">
 
                     <div class="logo">
-                        <img src="{{ .Site.BaseURL }}images/developpement-magento.png">
+                        <img src="{{ .Site.BaseURL }}images/developpement-magento.png" alt="Agence Magento" />
                     </div>
 
                     <div class="name">
