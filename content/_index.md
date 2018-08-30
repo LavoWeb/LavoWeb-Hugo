@@ -10,6 +10,15 @@ weight: 0
 
 Découvrez la seule solution open-source présente sur les 100 e-commerces générant le plus de CA.
 
+Maintenant que c'est clair, pourquoi Lavoweb ? Tout simplement car nous sommes une équipe d'experts.
+
+Plutôt que de parler, nous avons passé des certifications, nous en avons 4 sur Magento (toutes)
+et une sur Magento 2. En plus de ça, nous sommes partenaires de Magento.
+
+![Lavoweb - agence experte Magento](/images/certifications.png)
+
+[Voir notre profil partenaire](https://partners.magento.com/portal/details/partner/id/1987/).
+
 ## Le CMS Magento vous permet de gérer votre business en quelques clics
 
 Gérez simplement vos produits, vos moyens de transports et de paiements, vos clients, factures, stock & expéditions
