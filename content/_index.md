@@ -1,10 +1,10 @@
 ---
 date: 2016-03-08T21:07:13+01:00
-title: Agence de développement Magento
+title: Agence web Magento
 type: index
 weight: 0
 ---
-![Lavoweb - agence référencement Magento](/images/referencement_magento_grand.png)
+![Lavoweb - agence e-commerce Magento](/images/referencement_magento_grand.png)
 
 ## Magento est la meilleure solution e-commerce
 
