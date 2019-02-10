@@ -1,6 +1,6 @@
 ---
 date: 2016-03-08T21:07:13+01:00
-title: Référencement e-commerce
+title: Référencement Magento
 draft: false
 aliases: [
     "/referencement.3/",
@@ -10,7 +10,7 @@ aliases: [
     "/referencement/reseaux"
 ]
 ---
-## Référencement Magento
+## Référencement e-commerce Magento
 
 Le référencement naturel ou SEO (Search Engine Optimisation) est la clé de la réussite d’un projet e-commerce.
 
