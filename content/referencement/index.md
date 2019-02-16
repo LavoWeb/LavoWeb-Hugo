@@ -37,7 +37,7 @@ Pour que le réseau soit puissant, il faut remplir quelques critères :
 Aucun lien visible avec le site à référencer.
 C’est un processus très coûteux en temps, c’est pour cela que vous pouvez nous demander de réaliser cette prestation pour vous.
 
-Nous proposons ce service à un tarif imbattable : 800€ HT par mois pour 10 sites.
+Nous proposons ce service à un tarif imbattable : 2000€ HT par mois pour 10 sites.
 
 La prestation comprend :
 
@@ -47,9 +47,9 @@ La prestation comprend :
 
 - Installation, configuration et ajout d’un thème.
 
-- Chaque blog recevra un article de 300 mots par jour (environ 20 articles par mois).
+- Chaque blog recevra un article de 300 mots par semaine (environ 4 articles par mois).
 
-- Chaque blog recevra un lien thématique par semaine.
+- Chaque blog recevra un lien thématique par mois.
 
 - Les liens d’autorités seront acquis en fonction des opportunités.
 

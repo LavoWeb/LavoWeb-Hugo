@@ -89,9 +89,9 @@ Chez Lavoweb, nous avons choisit la seconde solution. Magento nous permets de cr
 
 Il est très facile de coupler Magento à un ERP ou à un CRM pour booster votre productivité, vous aurez accès à un outil complet.
 
-Nous proposons des offres complète à partir de 2 000€ HT, n’hésitez pas à nous décrire votre projet via le formulaire disponible sur la droite.
+Nous proposons des offres complète à partir de 15 000€ HT, n’hésitez pas à nous décrire votre projet via le formulaire disponible sur la droite.
 
-Pour ce tarif, vous aurez un site complètement configuré en langue française. Pour des projets multilingue, le tarif peut grimper jusqu’à 30 000€ suivant l’envergure du projet.
+Pour ce tarif, vous aurez un site complètement configuré en langue française. Pour des projets multilingue, le tarif démarre à 25 000€ suivant l’envergure du projet.
 
 ## Installation Magento
 
