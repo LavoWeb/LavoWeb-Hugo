@@ -28,8 +28,26 @@
     </li>
     <li>
         {{ $linkurl := (print $baseurl "referencement/") }}
-        <a {{ if eq $linkurl .Permalink }}class="current"{{ end }} title="Hébergement Magento" href="{{ $linkurl }}">
+        <a {{ if eq $linkurl .Permalink }}class="current"{{ end }} title="Référencement Magento" href="{{ $linkurl }}">
             Référencement e-commerce
+        </a>
+        {{ if eq $linkurl .Permalink }}
+            <ul id="scrollspy"></ul>
+        {{ end }}
+    </li>
+    <li>
+        {{ $linkurl := (print $baseurl "creation/") }}
+        <a {{ if eq $linkurl .Permalink }}class="current"{{ end }} title="Création site e-commerce Magento" href="{{ $linkurl }}">
+            Création e-commerce
+        </a>
+        {{ if eq $linkurl .Permalink }}
+            <ul id="scrollspy"></ul>
+        {{ end }}
+    </li>
+    <li>
+        {{ $linkurl := (print $baseurl "expert/") }}
+        <a {{ if eq $linkurl .Permalink }}class="current"{{ end }} title="Expert technique Magento" href="{{ $linkurl }}">
+            Expert Magento
         </a>
         {{ if eq $linkurl .Permalink }}
             <ul id="scrollspy"></ul>
