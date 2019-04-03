@@ -8,6 +8,7 @@ metadataformat = "yaml"
 canonifyurls = true
 # Enable Google Analytics by entering your tracking id
 googleAnalytics = ""
+paginate = 1000
 
 [params]
 	# General information
