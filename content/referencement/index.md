@@ -1,6 +1,8 @@
 ---
 date: 2016-03-08T21:07:13+01:00
-title: Référencement Magento
+title: "Référencement Magento | SEO pour votre site e-commerce | Lavoweb"
+description: "Donnez de la visibilité à votre site e-commerce et gagnez des positions en confiant son référencement aux experts de Lavoweb. Devis gratuit."
+h1: "Référencement Magento : donnez de la visibilité à votre site"
 draft: false
 aliases: [
     "/referencement.3/",
@@ -10,6 +12,42 @@ aliases: [
     "/referencement/reseaux"
 ]
 ---
+Votre site e-commerce Magento répond à vos besoins et dispose des fonctionnalités nécessaires à son bon fonctionnement. A présent, votre boutique en ligne doit attirer des visiteurs pour générer des ventes. Comment ? Avec des techniques de webmarketing et, surtout, grâce au référencement Magento qui va vous permettre d’être visible sur Google et les moteurs de recherche.
+
+## Qu’est-ce que le référencement Magento ?
+
+Il existe deux types de techniques de référencement : le référencement payant (SEA) via Google Ads (ex-Google Adwords) et son système d’enchères et le référencement naturel, appelé aussi référencement organique. Le SEO (Search Engine Optimization) est tout particulièrement intéressant lors de la création et du développement d’un site Magento.
+
+## Comment optimiser le référencement naturel d’un site Magento ?
+
+Voici une sélection de procédés indispensables pour optimiser le référencement d’un site Magento.
+
+## Optimisation technique du site
+
+Il est indispensable que le site e-commerce soit développé techniquement dans les règles de l’art. Son code doit être propre. Et le site doit charger rapidement, quel que soit l’appareil utilisé : PC, smartphone, tablette… Qui plus est, il ne doit subir aucun ralentissement ; les pages doivent se charger rapidement, même lorsque le site compte de très nombreuses pages et un important catalogue produits avec des fiches enrichies de photos et de vidéos. Cela nécessite des compétences techniques et il est donc judicieux de faire appel à un expert Magento afin d’éviter tout problème. En suivant les prérogatives relatives au développement web SEO, vous disposerez d’un site e-commerce « Google friendly » et donc, bien positionné sur les pages de résultats de recherche.
+
+## Optimisation de l’arborescence
+
+L’arborescence d’un site est primordiale puisque c’est véritablement le squelette du site. La navigation doit donc être ergonomique et facilitée, ce qui devient (très) compliqué quand on met en place un volumineux catalogue produits, avec différentes catégories, rubriques et sous-rubriques. Comment les pages s’articulent-elles entre elles, comment accéder à tel ou tel contenu, comment faciliter le parcours de l’utilisateur et, surtout, comment l’amener au bout du tunnel d’achat : voici autant de questions auxquelles un expert Magento vous aide à répondre. Et en créant une expérience utilisateur de qualité, vous optimisez le référencement naturel de votre site tout en favorisant le taux de conversion.
+
+## Analyse des données
+
+Votre site e-commerce vous donne accès à de nombreuses données. Grâce à une solution comme Google Analytics, vous pouvez étudier ces données et les exploiter. Taux de conversion, temps passé par page, type de pages vues, origine du trafic, valeur du panier moyen… sont autant d’informations cruciales qui vous aident à comprendre objectivement la performance de votre site e-commerce. Et à trouver des solutions quand vous détectez des points de blocage. Grâce à l’analyse des données, nous vous aidons à mettre en place une stratégie d’optimisation efficace et à prendre les bonnes décisions.
+
+## Un CMS orienté marketing
+
+En tant que CMS e-commerce, Magento est orienté marketing et propose des fonctionnalités facilitant la promotion de vos produits : retargeting, relance de panier, création de landing pages… Autant d’actions bénéfiques à la fois pour optimiser votre taux de conversion, mais aussi votre visibilité sur le web.
+
+## La réputation de votre site
+
+Le référencement de votre site tient pour beaucoup aux liens qui pointent vers lui. Campagne de netlinking et création de réseaux de sites sont des techniques qui permettent de renforcer l’autorité de votre boutique, ce qui sera récompensé par Google. La réputation de votre site est aussi celle que vous font vos clients : leur avis est primordial, tout comme leur fidélité. Différentes techniques et solutions permettent de résoudre tous les problèmes de popularité qui impactent négativement votre positionnement dans les pages de résultats.
+
+## Optimisation du référencement de votre site Magento par des experts
+
+Avec un développement de site e-commerce par des experts Magento, vous avez d’abord la garantie qu’il est optimisé techniquement pour les moteurs de recherche. En définissant également une stratégie de référencement adaptée à votre site et à vos besoins, votre boutique Magento génère plus de visites et contribue à augmenter vos ventes et votre chiffre d’affaires.
+
+Vous souhaitez optimiser le référencement de votre site Magento ? Contactez dès maintenant nos experts pour la mise en place de votre stratégie de référencement Magento ainsi que vos campagnes Adwords.
+
 ## Référencement e-commerce Magento
 
 Le référencement naturel ou SEO (Search Engine Optimisation) est la clé de la réussite d’un projet e-commerce.

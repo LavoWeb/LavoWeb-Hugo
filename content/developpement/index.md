@@ -1,6 +1,8 @@
 ---
 date: 2018-03-03
-title: Développement Magento
+title: "Développement Magento | Votre projet de site e-commerce avec Lavoweb"
+description: "Pour un développement Magento, faites appel aux experts certifiés de l’agence Lavoweb et bénéficiez d'un site qui répond à tous vos besoins. Devis gratuit."
+h1: "Développement Magento : des experts au service de votre projet e-commerce"
 draft: false
 aliases: [
     "/creation/installation.2/",
@@ -15,6 +17,28 @@ aliases: [
 type: "pages"
 layout: "home"
 ---
+Magento est un CMS open source permettant la création et la gestion de sites e-commerce, peu importe leur taille et leur secteur d’activité. Puissant, il se montre particulièrement adapté aux boutiques en ligne disposant d’un volumineux catalogue produits. Vous souhaitez faire appel à une agence spécialisée pour la création de votre site Magento et en savoir plus sur ce CMS ? Voici nos conseils en tant que développeurs certifiés Magento.
+
+## Magento, qu’est-ce que c’est ?
+
+Magento est un CMS, c’est-à-dire un système de gestion de contenu. Cette solution open source a été créée en 2008 par un éditeur américain et a été rachetée 10 ans plus tard par Adobe. Tout comme son concurrent PrestaShop, le CMS Magento est destiné à la création de sites e-commerce. De grandes marques comme Ford ou HP ont créé leur site sous Magento. Les principaux avantages de ce CMS sont ses fonctionnalisés multi-boutique et multidevise qui permettent la gestion de plusieurs points de vente au sein d’un seul et même back-office, ainsi que la vente de produits à l’international. Qui plus est, cette solution peut être intégrée à tout votre système d’information : ERP, CRM, PMI… Puissant, complet et évolutif, Magento est devenu un des principaux leaders du secteur.
+
+## Création de site Magento
+
+Magento regorge de fonctionnalités et bénéficie d’une communauté internationale active qui contribue à son développement. De nombreux modules viennent renforcer la puissance de ce CMS e-commerce. Magento peut ainsi s’adapter à toute création de sites. Les thèmes graphiques sont nombreux afin de correspondre à un large éventail d’activités, de même pour les modules principalement orientés marketing et merchandising. Les sites Magento peuvent aussi être optimisés pour le référencement naturel. Pour la création de votre site Magento, faites appel à des experts certifiés qui sauront exploiter tout le potentiel d’une solution technique performante et fiable.
+
+## Expert Magento
+
+Pour profiter pleinement de la puissance du CMS et de toutes les fonctionnalités de cette solution e-commerce, mieux vaut faire appel à des experts Magento. En effet, Magento, bien qu’accessible à tous, demande des compétences techniques pour le développement sur mesure d’un site e-commerce. Notre équipe de développeurs certifiés Magento vous accompagne de la conception de votre boutique jusqu’à sa mise en ligne. Mais également après, pour bénéficier d’un site e-commerce à jour et adapté au développement de votre activité, ainsi qu’à l’évolution de votre entreprise.
+
+## Votre projet avec Lavoweb
+
+Faites part de votre projet aux experts présents chez Lavoweb. Ils maîtrisent pleinement le CMS et mettent à votre service toute leur expertise en matière de marketing. Grâce à une analyse détaillée de vos besoins, nous pouvons développer un site doté des fonctionnalités nécessaires à votre activité en ligne. Nous pouvons également intégrer votre site e-commerce dans le système d’informations de votre entreprise, en le connectant par exemple à votre ERP. 
+
+Nos experts vous aident également à prendre en main l’outil, pour que vous puissiez administrer vos contenus, vos fiches produit par exemple. Nous assurons également la maintenance de votre site : sécurité, mise à jour, optimisation, correction des bugs… Et nous vous accompagnons également dans vos campagnes de référencement, dans la définition de votre politique commerciale et marketing sur internet, dans la gestion de votre e-réputation, etc.
+
+Contactez dès à présent nos experts Magento pour un site e-commerce à votre image et répondant à vos besoins. Lavoweb vous adresse un devis gratuit et personnalisé.
+
 ## Développeur Magento
 
 Vous cherchez un développeur Magento ? Nous pouvons vous aider !
