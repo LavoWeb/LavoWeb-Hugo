@@ -1,5 +1,4 @@
 {{ partial "header.html" . }}
-
 <h1>{{ default .Title .Params.h1 }}{{ if .IsDraft }} (Draft){{ end }}</h1>
 {{ .Content }}
 {{ partial "footer.html" . }}
