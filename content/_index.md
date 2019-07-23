@@ -40,7 +40,7 @@ Découvrez la seule solution open-source présente sur les 100 e-commerces gén�
 Maintenant que c'est clair, pourquoi Lavoweb ? Tout simplement car nous sommes une équipe d'experts.
 
 Plutôt que de parler, nous avons passé des certifications, nous en avons 4 sur Magento (toutes)
-et une sur Magento 2. En plus de ça, nous sommes partenaires de Magento.
+et une sur <a href="https://lumao.eu/ecommerce/cms/magento/">Magento 2</a>. En plus de ça, nous sommes partenaires de Magento.
 
 ![Lavoweb - agence experte Magento](/images/certifications.png)
 
