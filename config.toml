@@ -74,3 +74,7 @@ paginate = 1000
 	fractions = true
 	smartDashes = true
 	plainIDAnchors = true
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = false
