@@ -77,4 +77,4 @@ paginate = 1000
 [markup]
     [markup.goldmark]
         [markup.goldmark.renderer]
-            unsafe = false
+            unsafe = true
