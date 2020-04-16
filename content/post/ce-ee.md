@@ -14,7 +14,7 @@ Cet article est une traduction de l’excellent article de Customer Paradigm, no
 
 Tout d’abord, et article a été inspiré de la vidéo ci-dessous. Vous pouvez activer les sous-titres si besoin.
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uDCZRupAiio" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Un expert Magento peut vous aider à décider quelle version est adaptée pour votre entreprise.
 
