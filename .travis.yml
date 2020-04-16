@@ -1,5 +1,5 @@
 language: go
-install: go get github.com/spf13/hugo
+install: go get github.com/gohugoio/hugo@v0.46.0
 before_script:
   - sudo apt-get update
   - sudo apt-get install nodejs npm
