@@ -1,6 +1,6 @@
 language: go
 go:
-  - 1.14.x
+  - 1.11.x
 install: go get -u github.com/gohugoio/hugo
 before_script:
   - sudo apt-get update
