@@ -1,15 +1,14 @@
 language: go
 go:
-  - 1.10.x
-install: go get -u github.com/gohugoio/hugo
+  - 1.12
+install: go get github.com/gohugoio/hugo
 before_script:
   - sudo apt-get update
   - sudo apt-get install nodejs npm
   - sudo npm set strict-ssl false
   - sudo npm install -g gulp
-  - export GO111MODULE=on
-  - go mod init
 script:
+  - go get github.com/tdewolff/minify/cmd/minify
   - npm install
   - gulp
   - hugo
